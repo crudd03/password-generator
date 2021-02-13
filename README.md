@@ -3,7 +3,7 @@
 
 **Summary:** A sample social solutions webpage for MSU bootcamp.
 
-**Link:** https://crudd03.github.io/homework-1-horiseon/
+**Link:** https://crudd03.github.io/password-generator/
 
 **Description**
 
