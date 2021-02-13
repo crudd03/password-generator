@@ -9,4 +9,4 @@
 
 
 **Screenshot:**
-[password-generator.png](https://postimg.cc/68Y5GQCF)
+[![password-generator.png](https://i.postimg.cc/8CVF9Jck/password-generator.png)](https://postimg.cc/68Y5GQCF)
