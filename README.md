@@ -11,7 +11,7 @@
   * If a length is chosen that is out of bounds, an error message will appear and user will have the opportunity to try again.
 * After length is chosen, user will have the opportunity to select which character types that are to be included in the password: upper case letters, lower case letters, numbers, and/or symbols.
   * If no character types are selected, an error message will appear and user will have the opportunity to try again.
-* After character types are selected, a pseudo-random password will be generated based on the length and character types selected. The Javascript code uses the Math.random() method as a basis to generate this password
+* After character types are selected, a pseudo-random password will be generated based on the length and character types selected. The Javascript code uses the Math.random() method as a basis to generate this password.
 
 **Screenshot:**
 
