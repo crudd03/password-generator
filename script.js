@@ -56,6 +56,7 @@ function writePassword() {
 
   }
   
+  // Writes output of generatePassword() to a variable, then writes to #password ID to display on-screen
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
 
@@ -64,3 +65,4 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+
